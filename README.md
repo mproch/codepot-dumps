@@ -14,3 +14,4 @@ Czego używaliśmy?
 * kill -3 \<PID\> - zrzut wątków do stdout procesu javy
 * jstack \<PID\> - zrzut wątków do stdout
 * jvisualvm - do wszystkiego ;)
+* top -Hp <PID> - rozbicie zużycia CPU w rozbiciu na wątki procesu
